@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	body {
-		padding-top: 3.5em;
+		
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -1592,7 +1592,7 @@ input, select, textarea {
 				}
 
 			table.default td {
-				padding: 0.5em 1em 0.5em 1em;
+				padding: 5em 1em 0.5em 1em;
 			}
 
 			table.default th {
