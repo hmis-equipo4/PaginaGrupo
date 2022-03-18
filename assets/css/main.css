@@ -1579,6 +1579,11 @@ input, select, textarea {
 		width: 100%;
 	}
 
+	table tr p{
+		text-align: center;
+		margin-bottom: ;
+		
+	}
 		table.default {
 			width: 100%;
 		}
@@ -1630,11 +1635,13 @@ input, select, textarea {
 		.image img {
 			display: block;
 			width: 100%;
+			margin-left: 2em;
 		}
 
 		.image.fit {
 			display: block;
 			width: 100%;
+		
 		}
 
 		.image.featured {
@@ -1755,6 +1762,7 @@ input, select, textarea {
 		ul li {
 			padding-left: 0.5em;
 		}
+	
 
 	ol {
 		list-style: decimal;
@@ -2442,4 +2450,19 @@ input, select, textarea {
 						margin-top: 0;
 					}
 
+	}
+	#pagpersjesus{
+		margin-top: -3em;	
+		margin-left: 1em;
+
+	}
+	#pagpersjose{
+		margin-top: -3em;
+		margin-left: 1em;
+	}
+	.imgjose{
+		margin-left: 5em;
+	}
+	.textoimg{
+		margin-left: 3em;
 	}
